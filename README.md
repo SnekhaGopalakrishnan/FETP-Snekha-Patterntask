@@ -1,4 +1,5 @@
 #Flask Diamond Text Generator
+
 This Flask application creates a diamond pattern using the text "FORMULAQSOLUTIONS". 
 The pattern is generated based on the user's input for the number of lines. 
 The diamond shape includes a continuous repetition of the given text.
